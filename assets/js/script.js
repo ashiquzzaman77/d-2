@@ -636,7 +636,7 @@
 		(function ($) {
 			// add your functions
 			directionswitch();
-			swithcerMenu();
+			// swithcerMenu();
 			datepicker ();
 			timepicker ();
 		})(jQuery);
